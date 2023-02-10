@@ -1,0 +1,4 @@
+[submodule "stiloconcepto"]
+	path = stiloconcepto
+	url = git@git.vauxoo.com:vauxoo/stiloconcepto.git
+	branch = 15.0
