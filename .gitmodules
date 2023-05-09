@@ -2,3 +2,7 @@
 	path = stiloconcepto
 	url = git@git.vauxoo.com:vauxoo/stiloconcepto.git
 	branch = 15.0
+[submodule "account-analytic"]
+	path = account-analytic
+	url = git@github.com:OCA/account-analytic.git
+	branch = 15.0
