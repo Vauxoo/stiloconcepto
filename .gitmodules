@@ -8,7 +8,7 @@
 	branch = 15.0
 [submodule "icm"]
 	path = icm
-	url = git@git.vauxoo.com:vauxoo/icm.git
+	url = git@git.vauxoo.com:vauxoo-dev/icm.git
 	branch = 15.0
 [submodule "product-attribute"]
 	path = product-attribute
