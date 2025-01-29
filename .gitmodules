@@ -1,15 +1,15 @@
 [submodule "account-analytic"]
 	path = account-analytic
-	url = git@github.com:vauxoo-dev/account-analytic.git
-	branch = 18.0-mig-purchase_analytic-CLaurelB
+	url = git@github.com:Vauxoo/account-analytic.git
+	branch = 18.0
 [submodule "icm"]
 	path = icm
 	url = git@git.vauxoo.com:vauxoo-dev/icm.git
 	branch = 18.0-mig-xmlgord
 [submodule "product-attribute"]
 	path = product-attribute
-	url = git@github.com:vauxoo-dev/product-attribute.git
-	branch = 18.0-mig-product_pricelist_supplierinfo-CLaurelB
+	url = git@github.com:Vauxoo/product-attribute.git
+	branch = 18.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
