@@ -4,8 +4,8 @@
 	branch = 18.0
 [submodule "icm"]
 	path = icm
-	url = git@git.vauxoo.com:vauxoo-dev/icm.git
-	branch = 18.0-mig-xmlgord
+	url = git@git.vauxoo.com:vauxoo/icm.git
+	branch = 18.0
 [submodule "product-attribute"]
 	path = product-attribute
 	url = git@github.com:Vauxoo/product-attribute.git
@@ -17,4 +17,4 @@
 [submodule "stiloconcepto"]
 	path = stiloconcepto
 	url = git@git.vauxoo.com:vauxoo/stiloconcepto.git
-	branch = 18.0-remove_modules_and_templates-CLaurelB
+	branch = 18.0
