@@ -18,3 +18,11 @@
 	path = stiloconcepto
 	url = git@git.vauxoo.com:vauxoo/stiloconcepto.git
 	branch = 18.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 18.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 18.0
